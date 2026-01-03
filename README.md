@@ -1,3 +1,6 @@
+
+PARTE DEL CURSO DE VIBECODIGN DE 4GEEKS (BORRAR)
+
 # 📱 Recarga Fácil Bolivia
 
 **Recarga Fácil Bolivia** es un MVP de aplicación móvil diseñada para ayudar a **personas de la tercera edad** y a **personas con discapacidad** a recargar saldo en su teléfono celular de forma sencilla, utilizando la cámara del dispositivo para leer automáticamente los códigos de las tarjetas de recarga de las operadoras bolivianas.
